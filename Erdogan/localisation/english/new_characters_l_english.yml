@@ -1,0 +1,42 @@
+﻿l_english:
+TUR_CHARACTER_ERDOGAN:0 "Recep Tayyip Erdoğan"
+TUR_RECEP_TAYYIP_ERDOGAN_DESC:0 "Sent from the Future to save Türkiye, Erdoğan arrived in Rize in 1935. He quickly rose through the ranks of the CHP representing the more moderate stance held by the Müstakil group. After ousting Atatürk over his declining health Erdoğan seized the presidency and turned Türkiye into a glorious presidential republic." 
+
+
+## Events
+
+erdogan.1.d:0 "Several high ranking party members suggest renaming our partys name to AKP"
+erdogan.1.t:0 "Renaming the CHP?"
+erdogan.1.a:0 "We should rename it to Adalet ve Kalkınma Partisi"
+erdogan.1.b:0 "no lol"
+erdogan.2.t:0 "Epic win!"
+erdogan.2.d:0 "Holy shit everybody loves us now! :somuchwin:"
+erdogan.3.t:0 "status quo is preserved"
+erdogan.3.d:0 "boring choice imo"
+erdogan.2.a:0 ":cheers:"
+erdogan.3.a:0 "old bormann reference"
+erdogan.4.t:0 "Erdoğan's decision to increase his reach"
+erdogan.4.d:0 "After we took the initative to expand our leaders reach with the Turkish society we are faced with a decision, should we do a public appearance or a private meeting with the businessman"
+erdogan.4.a:0 "Let's meet with the Businessman"
+erdogan.4.b:0 "Let's hold a rally in Ankara"
+erdogan.5.t:0 "The meeting with MÜSİAD"
+erdogan.5.d:0 "The conference went well and the loyal businessman decided to aid Erdoğan in his quest to save Türkiye in exchange for some favors"
+erdogan.5.a:0 "This is not corruption!"
+erdogan.6.t:0 "Ankara Rally"
+erdogan.6.d:0 "Huge crowds have gathered up to listen to Reis's speech. Reis makes excellent points on the stage and gains the will of the people"
+erdogan.6.a:0 "The people's president"
+
+## Decisions
+
+erdogan_category:0 "Erdoğan's rule in the party"
+erdogan_add_one:0 "something something add 1 to the variable"
+erdogan_reset:0 "reset the variable"
+erdogan_event:0 "Talk with the party elite"
+erdogan_event2:0 "Expanding our base"
+
+## Variables
+
+erdogan_category_desc:0 "Our grip over the party [?erdoganvar] [GetErdogan]"
+erdogan.zero:0 "zero"
+erdogan.one:0 "one"
+AK_Parti:0 "Adalet ve Kalkınma Partisi"

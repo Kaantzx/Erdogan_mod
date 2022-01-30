@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_tur_recep_tayyip_erdogan"
+		texturefile = "gfx/leaders/TUR/Portrait_large_Erdogan.dds"
+	}
+}

@@ -1,0 +1,32 @@
+erdogan_category = {
+	erdogan_add_one = {
+		complete_effect = {
+			add_to_variable = {
+				var = erdoganvar
+				value = 1
+			}
+		}
+	}
+	erdogan_reset = {
+		complete_effect = {
+			set_variable = {
+				var = erdoganvar
+				value = 0
+			}	
+		}
+	}
+	erdogan_event = {
+		complete_effect = {
+			country_event = {
+				id = erdogan.1
+			}
+		}
+	}
+	erdogan_event2 = {
+		complete_effect = {
+			country_event = {
+				id = erdogan.4
+			}
+		}
+	}
+}
